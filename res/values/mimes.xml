@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  ~ Copyright (C) 2017 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+   -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="generic_extention_file_type">File<xliff:g id="EXTENSION">%1$s</xliff:g></string>
+    <string name="generic_file_type">File</string>
+    <string name="image_file_type">Відарыс</string>
+    <string name="image_extension_file_type">Image<xliff:g id="FILETYPE">%1$s</xliff:g></string>
+    <string name="audio_file_type">Audio</string>
+    <string name="audio_extension_file_type">Audio<xliff:g id="FILETYPE">%1$s</xliff:g></string>
+    <string name="video_file_type">Video</string>
+    <string name="video_extension_file_type">Video<xliff:g id="FILETYPE">%1$s</xliff:g></string>
+    <string name="archive_file_type">Archive<xliff:g id="FILETYPE">%1$s</xliff:g></string>
+    <string name="apk_file_type">Android application</string>
+    <string name="txt_file_type">Plain text</string>
+    <string name="html_file_type">HTML document</string>
+    <string name="pdf_file_type">PDF document</string>
+    <string name="word_file_type">Word document</string>
+    <string name="ppt_file_type">PowerPoint presentation</string>
+    <string name="excel_file_type">Excel spreadsheet</string>
+    <string name="gdoc_file_type">Google document</string>
+    <string name="gsheet_file_type">Google spreadsheet</string>
+    <string name="gslides_file_type">Google presentation</string>
+    <string name="gdraw_file_type">Google drawing</string>
+    <string name="gtable_file_type">Google table</string>
+    <string name="gform_file_type">Google form</string>
+    <string name="gmap_file_type">Google map</string>
+    <string name="gsite_file_type">Google site</string>
+    <string name="directory_type">Folder</string>
+</resources>
